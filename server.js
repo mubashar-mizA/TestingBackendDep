@@ -15,7 +15,7 @@ const app = express()
 const PORT = 1110
 
 app.get('/ping', (req, res) => {
-    res.send('Pong!')
+    res.send('Dirrty minds!')
 })
 
 // app.use('/user', authRoutes)
